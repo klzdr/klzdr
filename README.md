@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-NAME: KIONA LEI Z. DEL ROSARIO <br/>
-EDUCATION: <br/>
-CERTIFICATIONS: <br/>
+NAME:</br> KIONA LEI Z. DEL ROSARIO </br></br>
+EDUCATION: </br>
+Senior High School Graduate in Information Technology and Mobile Application and Web Development in STI <br/>
+2nd Year College in Bachelor in Science and Information Technology in New Era University </br></br>
+CERTIFICATIONS: </br></br>
 SKILLSETS:
 
 <!--
