@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+NAME: KIONA LEI Z. DEL ROSARIO
+EDUCATION:
+CERTIFICATIONS:
+SKILLSETS:
+
 <!--
 **klzdr/klzdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
