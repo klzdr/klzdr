@@ -2,8 +2,8 @@
 
 <bold>NAME:</bold></br> KIONA LEI Z. DEL ROSARIO </br></br>
 <h2><bold>EDUCATION: </bold></h2></br>
-Senior High School Graduate in Information Technology and Mobile Application and Web Development in STI <br/>
-2nd Year College in Bachelor of Science and Information Technology in New Era University </br></br>
+New Era University - Bachelor of Science in Information Technology<br/>
+STI Cubao - Information Technology and Mobile Application Web Development (ITMAWD) TVL Track</br></br>
 <h2><bold>CERTIFICATIONS:</bold></h2> </br></br>
 <h2><bold>SKILLSETS:</bold></h2>
 
