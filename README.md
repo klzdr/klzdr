@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-NAME:</br> KIONA LEI Z. DEL ROSARIO </br></br>
-EDUCATION: </br>
+<bold>NAME:</bold></br> KIONA LEI Z. DEL ROSARIO </br></br>
+<h2><bold>EDUCATION: </bold></h2></br>
 Senior High School Graduate in Information Technology and Mobile Application and Web Development in STI <br/>
 2nd Year College in Bachelor of Science and Information Technology in New Era University </br></br>
-CERTIFICATIONS: </br></br>
-SKILLSETS:
+<h2><bold>CERTIFICATIONS:</bold></h2> </br></br>
+<h2><bold>SKILLSETS:</bold></h2>
 
 <!--
 **klzdr/klzdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
