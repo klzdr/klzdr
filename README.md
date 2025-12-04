@@ -14,3 +14,11 @@ STI Cubao - Information Technology in Mobile Application and Web Development (IT
 
 [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F294AAA73846F9A198E4131C2D8F00E7D9094CF092E77644E5819B2FB0116C6)
 <h2><bold>SKILLSETS:</bold></h2>
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+Laragon
+Laravel Framework
+React Native
