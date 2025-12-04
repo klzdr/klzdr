@@ -2,13 +2,13 @@
 
 <p align="center">
   <b>Aspiring IT Professional | Web & Mobile Developer</b><br>
-  <a href="INSERT_YOUR_PORTFOLIO_LINK_HERE">Explore my Portfolio ➜</a>
+  <a href="klzdr-portfolio.vercel.app">Explore my Portfolio ➜</a>
 </p>
 
 ---
 
 ### 💻 About Me
-I am a Bachelor of Science in Information Technology graduate from New Era University with a background in Mobile App and Web Development. I am passionate about building functional applications using Laravel and React Native.
+I am a Bachelor of Science in Information Technology 3rd Year College Student from New Era University with a background in Mobile App and Web Development. I am passionate about building functional applications using Laravel and React Native.
 
 ### 🛠 Tech Stack
 **Languages & Frameworks:**
@@ -42,5 +42,3 @@ I am a Bachelor of Science in Information Technology graduate from New Era Unive
 ### 🎓 Education
 * **Bachelor of Science in Information Technology** *New Era University*
 * **IT in Mobile Application and Web Development (TVL Track)** *STI Cubao*
-
-![Kiona's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
