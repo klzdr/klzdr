@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Aspiring IT Professional | Web & Mobile Developer</b><br>
-  <a href="klzdr-portfolio.vercel.app">Explore my Portfolio ➜</a>
+  <a href="[klzdr-portfolio.vercel.app](https://klzdr-portfolio.vercel.app)">Explore my Portfolio ➜</a>
 </p>
 
 ---
